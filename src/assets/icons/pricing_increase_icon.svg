@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.65 48.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #db4126;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: LucidaGrande, 'Lucida Grande';
+        font-size: 22.79px;
+      }
+    </style>
+  </defs>
+  <rect id="pricing_bg" class="cls-1" x="2.94" y="2.11" width="43.78" height="44.74" rx="3.24" ry="3.24"/>
+  <circle id="circle" class="cls-2" cx="24.44" cy="24.39" r="17.06"/>
+  <g id="Plus_-left" data-name="Plus -left">
+    <line id="horizontal" class="cls-2" x1="10.15" y1="24.48" x2="21.31" y2="24.48"/>
+    <line id="vertical" class="cls-2" x1="15.73" y1="30.06" x2="15.73" y2="18.9"/>
+  </g>
+  <text class="cls-3" transform="translate(20.94 32.73) scale(1.08 1)"><tspan x="0" y="0">$</tspan></text>
+</svg>

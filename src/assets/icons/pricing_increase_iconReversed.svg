@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 49.65 48.95"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">&#10;      .cls-1 {&#10;        fill: #db4126;&#10;      }&#10;&#10;      .cls-2 {&#10;        fill: none;&#10;        stroke: #fff;&#10;        stroke-miterlimit: 10;&#10;      }&#10;&#10;      .cls-3 {&#10;        fill: #fff;&#10;        font-family: LucidaGrande, 'Lucida Grande';&#10;        font-size: 22.79px;&#10;      }&#10;    </style>
+  </defs>
+  <rect
+     id="pricing_bg"
+     class="cls-1"
+     x="2.9399986"
+     y="2.1099999"
+     width="43.779999"
+     height="44.740002"
+     rx="3.24"
+     ry="3.24" />
+  <circle
+     id="circle"
+     class="cls-2"
+     cx="24.440001"
+     cy="24.389999"
+     r="17.059999" />
+  <g
+     id="g1"
+     transform="matrix(-1,0,0,1,45.86716,0)">
+    <g
+       id="Plus_-left"
+       data-name="Plus -left">
+      <line
+         id="horizontal"
+         class="cls-2"
+         x1="10.15"
+         y1="24.48"
+         x2="21.309999"
+         y2="24.48" />
+      <line
+         id="vertical"
+         class="cls-2"
+         x1="15.73"
+         y1="30.059999"
+         x2="15.73"
+         y2="18.9" />
+    </g>
+    <text
+       class="cls-3"
+       transform="scale(1.0392305,0.96225044)"
+       id="text1"
+       x="20.704386"
+       y="34.014015"
+       style="stroke-width:1.03923"><tspan
+         x="20.704386"
+         y="34.014015"
+         id="tspan1"
+         style="stroke-width:1.03923">$</tspan></text>
+  </g>
+</svg>
